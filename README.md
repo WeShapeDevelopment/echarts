@@ -1,3 +1,4 @@
+这是Fork官方的一个项目，具体更新详情可以查看 （Apache ECharts）
 # Apache ECharts
 
 <a href="https://echarts.apache.org/">
